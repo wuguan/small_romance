@@ -55,7 +55,7 @@ const config = (function(){
 		},
 		// type对应上面的color与font  若没有对应的 则默认为color1或font1
 		dialogue:[
-			{type:6, name:'男子', txt:'快过年了，我们去放烟花吧！'},
+			{type:6, name:'男子', txt:'快一周年了，我们去放烟花吧！'},
 			{type:2, name:'女子', txt:'天还这么亮，现在放烟花也不好看。'},
 			{type:2, name:'女子', txt:'再说你那有烟花吗？'},
 			{type:6, name:'男子', txt:'我当然有烟花啦。'},
@@ -96,7 +96,7 @@ const config = (function(){
 		},
 	
 		//阶段四
-		titleWords:'一不小心|就和你|到了白头', // '|' 为分隔符
+		titleWords:'吴昊和朱婉|吴昊和朱婉|一周年纪念', // '|' 为分隔符
 		titleOpt:{
 			gap: 4,
 			size: 70,  //最后字的大小
